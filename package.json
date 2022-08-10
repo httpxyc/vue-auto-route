@@ -1,6 +1,6 @@
 {
-  "name": "vue-auto-route",
-  "version": "1.0.0",
+  "name": "@mozartchen/vue-auto-route",
+  "version": "1.0.1",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/httpxyc/vue-auto-route-ts.git"
+    "url": "git+https://github.com/httpxyc/vue-auto-route.git"
   },
-  "author": "Jack Chen",
+  "author": "Mozart Chen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/httpxyc/vue-auto-route-ts/issues"
+    "url": "https://github.com/httpxyc/vue-auto-route/issues"
   },
-  "homepage": "https://github.com/httpxyc/vue-auto-route-ts#readme",
+  "homepage": "https://github.com/httpxyc/vue-auto-route#readme",
   "devDependencies": {
     "@vue/compiler-sfc": "^3.2.37",
     "fast-glob": "^3.2.11"
